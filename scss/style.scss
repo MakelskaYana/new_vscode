@@ -1,0 +1,21 @@
+@import "_header";
+// ?вопрос
+// !важно
+//комментарий
+body {
+	font-size: 20px;
+	> div {
+		font-size: 40px;
+		background-color: #000;
+		color: #0f0;
+	}
+	img {
+		background-color: #000;
+	}
+	.yellow {
+		line-height: 40px;
+	}
+	.red {
+		background-color: #f00;
+	}
+}

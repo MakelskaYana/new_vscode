@@ -1,0 +1,26 @@
+header {
+  background-color: #fff;
+  color: #f00;
+}
+
+body {
+  font-size: 20px;
+}
+
+body > div {
+  font-size: 40px;
+  background-color: #000;
+  color: #0f0;
+}
+
+body img {
+  background-color: #000;
+}
+
+body .yellow {
+  line-height: 40px;
+}
+
+body .red {
+  background-color: #f00;
+}
